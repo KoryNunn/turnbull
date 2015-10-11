@@ -1,0 +1,57 @@
+Rank, Country/Territory, Avg. connection speed (Mbit/s)[5]
+-, World average, 3.9
+1, South Korea, 25.3
+2, Hong Kong, 16.3
+3, Japan, 15.0
+4,  Switzerland, 14.5
+5, Sweden, 14.1
+6, Netherlands, 14.0
+7, Ireland, 13.9
+8, Latvia, 13.0
+9, Czech Republic, 12.3
+10, Singapore, 12.2
+11, Finland, 11.7
+12, United States, 11.5
+13, Belgium, 11.4
+14, Israel, 11.4
+15, Norway, 11.4
+16, Romania, 11.3
+17, Denmark, 11.2
+18, United Kingdom, 10.7
+19, Austria, 10.4
+20, Canada, 10.3
+21, Taiwan, 9.5
+22, Russia, 9.1
+23, Hungary, 8.8
+24, Germany, 8.7
+25, Poland, 8.6
+26, Slovakia, 8.6
+27, Portugal, 8.0
+28, Spain, 7.8
+29, New Zealand, 7.0
+30, Australia, 6.9
+31, France, 6.9
+32, Thailand, 6.6
+33, Italy, 5.5
+34, Turkey, 5.5
+35, Uruguay, 5.5
+36, United Arab Emirates, 4.7
+37, Argentina, 4.2
+38, Mexico, 4.1
+39, Malaysia, 4.1
+40, Chile, 4.1
+41, China, 3.8
+42, Indonesia, 3.7
+43, Ecuador, 3.6
+44, Peru, 3.6
+45, South Africa, 3.6
+46, Colombia, 3.4
+47, Brazil, 2.9
+48, Panama, 2.9
+49, Costa Rica, 2.7
+50, Philippines, 2.5
+51, Vietnam, 2.5
+52, India, 2.0
+53, Venezuela, 1.3
+54, Paraguay, 1.3
+55, Bolivia, 1.1

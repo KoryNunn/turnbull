@@ -1,0 +1,30 @@
+{
+  "name": "turnbull",
+  "version": "1.0.0",
+  "description": "Takes a perfectly good stream and throttles it down to nearly useless.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concat": "^1.0.0",
+    "concat-stream": "^1.5.0",
+    "tape": "^4.2.1"
+  },
+  "dependencies": {
+    "through2": "^2.0.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoryNunn/turnbull.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/turnbull/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/turnbull#readme"
+}
